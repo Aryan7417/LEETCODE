@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Aryan7417/LEETCODE/tree/master/0189-rotate-array) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Aryan7417/LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Aryan7417/LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Aryan7417/LEETCODE/tree/master/0189-rotate-array) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Aryan7417/LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Aryan7417/LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Design
@@ -39,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Aryan7417/LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Aryan7417/LEETCODE/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
