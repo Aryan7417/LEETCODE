@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Aryan7417/LEETCODE/tree/master/0189-rotate-array) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Aryan7417/LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Aryan7417/LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Aryan7417/LEETCODE/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Math
 |  |
 | ------- |
@@ -50,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3360-stone-removal-game](https://github.com/Aryan7417/LEETCODE/tree/master/3360-stone-removal-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Aryan7417/LEETCODE/tree/master/3946-maximum-number-of-items-from-sale-i) |
+## Greedy
+|  |
+| ------- |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Aryan7417/LEETCODE/tree/master/3946-maximum-number-of-items-from-sale-i) |
 <!---LeetCode Topics End-->
